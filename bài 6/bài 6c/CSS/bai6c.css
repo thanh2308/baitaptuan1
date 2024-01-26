@@ -1,0 +1,32 @@
+form {
+    max-width: 300px;
+  }
+  
+  input[type=text],
+  input[type=tel],
+  input[type=email],
+  input[type=color],
+  input[type=date] {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+  }
+  
+  submit {
+     background-color: #4CAF50;
+     color: white;
+     padding: 14px 20px;
+     margin: 8px 0;
+     border: none;
+     cursor: pointer;
+  }
+  #title{
+    border: 1px solid blue;
+    width: 25%;
+    margin: auto;
+  }
+  #color{
+    width: 30%;
+    height:60px;
+  }
+  

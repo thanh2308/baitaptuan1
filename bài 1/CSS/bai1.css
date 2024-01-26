@@ -1,0 +1,16 @@
+
+nav{
+    display:flex;
+    justify-content: flex-start;
+}
+.title{
+    
+    box-shadow: 0 0 10px ;
+    border: 1px solid rgb(147, 145, 145) ;
+    width: 25%; 
+    margin: auto; 
+    padding: 50px;
+}
+.old{
+    border-left: 1px solid black;
+}
